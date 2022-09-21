@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="0g6Fybm)jD:FN(i8F{~!">index</variable></variables><block type="pxt-on-start" id="Y*dGROb$soAR^l.XB_~}" x="0" y="0"></block><block type="device_forever" id="B1%L^X^Hk#fgyo1bD%eh" x="205" y="0"></block><block type="device_button_event" id="V!-Vp7,;=cm#A1:}^Z%2" x="46" y="269"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="pxt_controls_for" id="wWcRl(nR[O((CiweY+Wc"><value name="VAR"><shadow type="variables_get_reporter" id="8;5f5C4N_x1aF=]xF%S="><field name="VAR" id="0g6Fybm)jD:FN(i8F{~!">index</field></shadow></value><value name="TO"><shadow type="math_whole_number" id="91z4mvwh#`,{Rg)PJ[_E"><field name="NUM">10</field></shadow></value><statement name="DO"><block type="device_show_leds" id=",GtgyaZ|hB*4$.lvI~Eg"><field name="LEDS">`
+        # . # . # 
+        # . # . . 
+        # # # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_clear_display" id="00Ml8to4E.$O5P/iM{wD"><next><block type="device_pause" id="dJu})aLuVT:@v3*]RCO^"><value name="pause"><shadow type="timePicker" id="vHfyP:;r3EeYC^ETGlf5"><field name="ms">100</field></shadow></value></block></next></block></next></block></statement></block></statement></block><block type="controls_repeat_ext" id="vb?cgJTbDG#%qE+CWc[a" disabled="true" x="860" y="426"><value name="TIMES"><shadow type="math_whole_number" id="%xqldWe+x,^oh2xw?5:2" disabled="true"><field name="NUM">10</field></shadow></value></block></xml>
